@@ -17,6 +17,6 @@
 
 小标题用 *
 
-![linear]()
+![linear](https://github.com/wangchaonan1/note/blob/master/file01/%E6%9C%88%E5%88%9D.jpg)
 
 添加图片 ，打开在 GitHub 仓库里面上传好的图片邮件复制图片地址粘贴到这里即可
